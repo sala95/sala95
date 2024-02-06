@@ -19,4 +19,4 @@ Thank you for visiting my GitHub profile. I look forward to connecting and worki
 **Contact:**
 - Email: salami.andreaa@gmail.com
 - X: twitter.com/salami_andrea
-- LinkedIn: https://www.linkedin.com/in/andrea-salami-204908209/
+- LinkedIn: www.linkedin.com/in/andrea-salami-204908209/
