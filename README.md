@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with skills in various 
 🐍- **Python**: I'm an applications developer using Python. From data wrangling to process automation, I'm ready to tackle challenges of all kinds using this powerful language.
 
 ### Web Technologies:
-👨🏻‍💻- **HTML, CSS and JavaScript**: I have a solid understanding of HTML and CSS for creating attractive and responsive user interfaces. I can translate designs into functional and aesthetically pleasing code.
+👨🏻‍💻- **HTML, CSS and JavaScript**: I have a solid understanding of HTML, CSS and Javascript for creating attractive and responsive user interfaces. I can translate designs into functional and aesthetically pleasing code.
 
 ### Blockchain and Smart Contract:
 🔗- **Solidity**: Currently, I'm exploring the world of blockchain and smart contract development using Solidity. I'm excited to contribute to projects that leverage blockchain technology to create innovative and decentralized solutions.
