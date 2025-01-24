@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with skills in various 
 🔗- **Solidity**: Currently, I'm exploring the world of blockchain and smart contract development using Solidity. I'm excited to contribute to projects that leverage blockchain technology to create innovative and decentralized solutions.
 
 ### How to Collaborate:
-If you're interested in collaborating on exciting projects involving Python, HTML, CSS, Solidity, or any other related technology, feel free to reach out to me. I'm always open to new challenges and learning opportunities!
+If you're interested in collaborating on exciting projects involving Python, HTML, CSS, Javascript, Solidity, or any other related technology, feel free to reach out to me. I'm always open to new challenges and learning opportunities!
 
 Thank you for visiting my GitHub profile. I look forward to connecting and working together on exciting projects!
 
